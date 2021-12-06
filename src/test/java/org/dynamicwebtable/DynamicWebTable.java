@@ -37,6 +37,7 @@ public class DynamicWebTable
 		List<WebElement> thcontent = driver.findElements(By.tagName("th"));
 		
 		System.out.println(thcontent.size());
+		System.out.println("Hi");
 	}
 	
 	@Test
