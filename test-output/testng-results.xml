@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8494" started-at="2021-11-15T04:32:46Z" finished-at="2021-11-15T04:32:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8494" started-at="2021-11-15T04:32:46Z" finished-at="2021-11-15T04:32:54Z">
+      <class name="org.dynamicwebtable.DynamicWebTable">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.dynamicwebtable.DynamicWebTable@6e20b53a]" name="tc1" duration-ms="4286" started-at="2021-11-15T04:32:46Z" finished-at="2021-11-15T04:32:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.dynamicwebtable.DynamicWebTable@6e20b53a]" name="tc2" duration-ms="4168" started-at="2021-11-15T04:32:50Z" finished-at="2021-11-15T04:32:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- org.dynamicwebtable.DynamicWebTable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
